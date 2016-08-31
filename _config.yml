@@ -1,0 +1,29 @@
+name: Jimbo
+favicon: null
+layout_spectrum: 0.10512373805977404
+typography_spectrum: 0.5171720562502742
+title: Welcome to Jimbo
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5343886846676469
+  lightness: 0.9785558597650379
+  saturation: 0.33395686745643616
+  rhythmicContrast: 0.45726123242639005
+purpose: []
